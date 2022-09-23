@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I'm currently the CTO at [Fig](https://foodisgood.com/)
+- Previously, I worked on the HoloLens team at Microsoft
+
+You can find my thoughts on [Twitter](https://twitter.com/_jake_lynch) and on [my blog](https://isthisthingon.substack.com/)
+
 <!--
 **mljlynch/mljlynch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
