@@ -5,8 +5,6 @@
 
 You can find my thoughts on [Twitter](https://twitter.com/_jake_lynch) and on [my blog](https://isthisthingon.substack.com/)
 
-<a href="https://twitter.com/_jake_lynch?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @_jake_lynch</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <!--
 **mljlynch/mljlynch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
